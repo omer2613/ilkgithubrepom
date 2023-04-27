@@ -1,2 +1,5 @@
 # ilkgithubrepom
-git dersinde deneme repom
+git dersinde deneme 
+
+merhaba repoma hoşgeldiniz:)
+###merhaba
